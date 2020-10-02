@@ -285,7 +285,13 @@ Size: 200x34px
 ```
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash-200x34.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ```
-
+#Viewers and stars
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jmau111.jmau111" width="82" height="20" alt="">
+  <img src="https://github.com/jmau111/jmau111/blob/master/images/malabar.gif" width="230" height="199" alt="">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjmau111" width="82" height="20" alt="">
+  
+</p>
 
 ### Development by
 
